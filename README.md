@@ -1,2 +1,2 @@
-# auth-server-mjt
-Final course project for the Modern Java Technologies course 
+# Authentication Server
+[Final course project](auth-server.md) for the [Modern Java Technologies](https://github.com/fmi/java-course) course
